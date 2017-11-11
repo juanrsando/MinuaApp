@@ -14,6 +14,10 @@ gem 'pg'
 gem 'puma', '~> 3.7'
 # for users
 gem 'devise'
+# Use bootstrap framework
+gem 'bootstrap'
+# Use Geocoder engine for maps
+gem 'geocoder'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
