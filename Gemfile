@@ -14,8 +14,10 @@ gem 'pg'
 gem 'puma', '~> 3.7'
 # for users
 gem 'devise'
-# Use bootstrap framework
-gem 'bootstrap'
+# Use bootstrap, and jquery-rails framework
+gem 'bootstrap-sass', '~> 3.2.0'
+gem 'autoprefixer-rails'
+gem 'jquery-rails'
 # Use Geocoder engine for maps
 gem 'geocoder'
 # Use SCSS for stylesheets
